@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/Tristan816la/Calendar/static/css/main.bab0b925.chunk.css",
+    "main.js": "/Tristan816la/Calendar/static/js/main.c871ae9e.chunk.js",
+    "main.js.map": "/Tristan816la/Calendar/static/js/main.c871ae9e.chunk.js.map",
+    "runtime-main.js": "/Tristan816la/Calendar/static/js/runtime-main.7a8c2ec9.js",
+    "runtime-main.js.map": "/Tristan816la/Calendar/static/js/runtime-main.7a8c2ec9.js.map",
+    "static/css/2.0768f66f.chunk.css": "/Tristan816la/Calendar/static/css/2.0768f66f.chunk.css",
+    "static/js/2.d991019d.chunk.js": "/Tristan816la/Calendar/static/js/2.d991019d.chunk.js",
+    "static/js/2.d991019d.chunk.js.map": "/Tristan816la/Calendar/static/js/2.d991019d.chunk.js.map",
+    "index.html": "/Tristan816la/Calendar/index.html",
+    "static/css/2.0768f66f.chunk.css.map": "/Tristan816la/Calendar/static/css/2.0768f66f.chunk.css.map",
+    "static/css/main.bab0b925.chunk.css.map": "/Tristan816la/Calendar/static/css/main.bab0b925.chunk.css.map",
+    "static/js/2.d991019d.chunk.js.LICENSE.txt": "/Tristan816la/Calendar/static/js/2.d991019d.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.7a8c2ec9.js",
+    "static/css/2.0768f66f.chunk.css",
+    "static/js/2.d991019d.chunk.js",
+    "static/css/main.bab0b925.chunk.css",
+    "static/js/main.c871ae9e.chunk.js"
+  ]
+}
