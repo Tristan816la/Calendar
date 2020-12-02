@@ -1,0 +1,23 @@
+GET https://whispering-crag-05145.herokuapp.com/events
+
+###
+POST https://whispering-crag-05145.herokuapp.com/events
+Content-Type: application/json
+
+{
+    "title": "dinner",
+    "date": "2020-12-02",
+    "start":"15:00",
+    "end": "16:00"
+}
+
+###
+PUT https://whispering-crag-05145.herokuapp.com/events/5fc6a0efe2122400248e8592
+Content-Type: application/json
+
+{
+    "start": "07:00"
+}
+
+###
+DELETE https://whispering-crag-05145.herokuapp.com/events/5fc686d8d8a7d4cf17de8b9e
