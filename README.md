@@ -1,5 +1,6 @@
 # Calendar
 See the deployed version of this app: https://calendar-tristan.herokuapp.com/
+(It might take a little time to load)
 
 ### If you want to run this app locally:
 ```
